@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataDefinitionandDatatypes">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ALEX\SQLEXPRESS:ALEX\Alexander">
+          <Created>2018-05-27T20:11:27.9051692+03:00</Created>
+          <Type>SQL</Type>
+          <Server>ALEX\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Minions</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01-06Exercises.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01-06Exercises.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07CreateTablePeople.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07CreateTablePeople.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08-12CreateTableUsers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08-12CreateTableUsers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13MovieDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13MovieDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14CarRentalDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14CarRentalDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15HotelDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15HotelDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16CreateSoftUniDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16CreateSoftUniDatabase.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

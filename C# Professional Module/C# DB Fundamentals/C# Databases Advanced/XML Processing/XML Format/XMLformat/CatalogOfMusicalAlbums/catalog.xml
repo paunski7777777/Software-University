@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>Name1</name>
+    <artist>Artist1</artist>
+    <year>2018</year>
+    <producer>Producer1</producer>
+    <price>99.99</price>
+    <songs>
+      <song>
+        <title>Title1</title>
+        <duration>99:99</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Name2</name>
+    <artist>Artist2</artist>
+    <year>2017</year>
+    <producer>Producer2</producer>
+    <price>88.99</price>
+    <songs>
+      <song>
+        <title>Title2</title>
+        <duration>88:88</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Name3</name>
+    <artist>Artist3</artist>
+    <year>2016</year>
+    <producer>Producer3</producer>
+    <price>77.99</price>
+    <songs>
+      <song>
+        <title>Title3</title>
+        <duration>77:77</duration>
+      </song>
+    </songs>
+  </album>
+</albums>

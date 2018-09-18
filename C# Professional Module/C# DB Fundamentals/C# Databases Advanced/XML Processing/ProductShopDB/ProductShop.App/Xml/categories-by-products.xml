@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-16"?>
+<categories>
+  <category name="Garden">
+    <products-count>24</products-count>
+    <average-price>835.60</average-price>
+    <total-revenue>20054.40</total-revenue>
+  </category>
+  <category name="Electronics">
+    <products-count>22</products-count>
+    <average-price>825.5013636363636363636363636</average-price>
+    <total-revenue>18161.03</total-revenue>
+  </category>
+  <category name="Fashion">
+    <products-count>20</products-count>
+    <average-price>746.132</average-price>
+    <total-revenue>14922.64</total-revenue>
+  </category>
+  <category name="Business">
+    <products-count>20</products-count>
+    <average-price>590.5905</average-price>
+    <total-revenue>11811.81</total-revenue>
+  </category>
+  <category name="Sports">
+    <products-count>19</products-count>
+    <average-price>758.27368421052631578947368421</average-price>
+    <total-revenue>14407.20</total-revenue>
+  </category>
+  <category name="For Children">
+    <products-count>18</products-count>
+    <average-price>765.61777777777777777777777778</average-price>
+    <total-revenue>13781.12</total-revenue>
+  </category>
+  <category name="Autoparts">
+    <products-count>16</products-count>
+    <average-price>929.026875</average-price>
+    <total-revenue>14864.43</total-revenue>
+  </category>
+  <category name="Weapons">
+    <products-count>16</products-count>
+    <average-price>866.9625</average-price>
+    <total-revenue>13871.40</total-revenue>
+  </category>
+  <category name="Other">
+    <products-count>16</products-count>
+    <average-price>642.628125</average-price>
+    <total-revenue>10282.05</total-revenue>
+  </category>
+  <category name="Adult">
+    <products-count>15</products-count>
+    <average-price>761.83133333333333333333333333</average-price>
+    <total-revenue>11427.47</total-revenue>
+  </category>
+  <category name="Drugs">
+    <products-count>14</products-count>
+    <average-price>747.83</average-price>
+    <total-revenue>10469.62</total-revenue>
+  </category>
+</categories>
