@@ -1,0 +1,11 @@
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\bin\Debug\netcoreapp2.1\ValidateURL.deps.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\bin\Debug\netcoreapp2.1\ValidateURL.runtimeconfig.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\bin\Debug\netcoreapp2.1\ValidateURL.runtimeconfig.dev.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\bin\Debug\netcoreapp2.1\ValidateURL.dll
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\bin\Debug\netcoreapp2.1\ValidateURL.pdb
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\obj\Debug\netcoreapp2.1\ValidateURL.csprojAssemblyReference.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\obj\Debug\netcoreapp2.1\ValidateURL.csproj.CoreCompileInputs.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\obj\Debug\netcoreapp2.1\ValidateURL.AssemblyInfoInputs.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\obj\Debug\netcoreapp2.1\ValidateURL.AssemblyInfo.cs
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\obj\Debug\netcoreapp2.1\ValidateURL.dll
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\ValidateURL\obj\Debug\netcoreapp2.1\ValidateURL.pdb

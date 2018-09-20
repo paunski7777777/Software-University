@@ -1,0 +1,11 @@
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\bin\Debug\netcoreapp2.1\RequestParser.deps.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\bin\Debug\netcoreapp2.1\RequestParser.runtimeconfig.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\bin\Debug\netcoreapp2.1\RequestParser.runtimeconfig.dev.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\bin\Debug\netcoreapp2.1\RequestParser.dll
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\bin\Debug\netcoreapp2.1\RequestParser.pdb
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\obj\Debug\netcoreapp2.1\RequestParser.csprojAssemblyReference.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\obj\Debug\netcoreapp2.1\RequestParser.csproj.CoreCompileInputs.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\obj\Debug\netcoreapp2.1\RequestParser.AssemblyInfoInputs.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\obj\Debug\netcoreapp2.1\RequestParser.AssemblyInfo.cs
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\obj\Debug\netcoreapp2.1\RequestParser.dll
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - HTTP Protocol\HTTP-Protocol\RequestParser\obj\Debug\netcoreapp2.1\RequestParser.pdb
