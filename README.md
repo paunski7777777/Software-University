@@ -1,1 +1,1 @@
-My education at Software University
+Labs, exercises, projects during my education at Software University.
