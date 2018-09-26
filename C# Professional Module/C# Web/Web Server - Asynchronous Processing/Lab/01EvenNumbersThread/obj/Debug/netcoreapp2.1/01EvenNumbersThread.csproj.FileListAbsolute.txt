@@ -1,0 +1,11 @@
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\bin\Debug\netcoreapp2.1\01EvenNumbersThread.deps.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\bin\Debug\netcoreapp2.1\01EvenNumbersThread.runtimeconfig.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\bin\Debug\netcoreapp2.1\01EvenNumbersThread.runtimeconfig.dev.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\bin\Debug\netcoreapp2.1\01EvenNumbersThread.dll
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\bin\Debug\netcoreapp2.1\01EvenNumbersThread.pdb
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\obj\Debug\netcoreapp2.1\01EvenNumbersThread.csprojAssemblyReference.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\obj\Debug\netcoreapp2.1\01EvenNumbersThread.csproj.CoreCompileInputs.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\obj\Debug\netcoreapp2.1\01EvenNumbersThread.AssemblyInfoInputs.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\obj\Debug\netcoreapp2.1\01EvenNumbersThread.AssemblyInfo.cs
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\obj\Debug\netcoreapp2.1\01EvenNumbersThread.dll
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\01EvenNumbersThread\obj\Debug\netcoreapp2.1\01EvenNumbersThread.pdb

@@ -1,0 +1,11 @@
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\bin\Debug\netcoreapp2.1\03SimpleWebServer.deps.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\bin\Debug\netcoreapp2.1\03SimpleWebServer.runtimeconfig.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\bin\Debug\netcoreapp2.1\03SimpleWebServer.runtimeconfig.dev.json
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\bin\Debug\netcoreapp2.1\03SimpleWebServer.dll
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\bin\Debug\netcoreapp2.1\03SimpleWebServer.pdb
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\obj\Debug\netcoreapp2.1\03SimpleWebServer.csprojAssemblyReference.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\obj\Debug\netcoreapp2.1\03SimpleWebServer.csproj.CoreCompileInputs.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\obj\Debug\netcoreapp2.1\03SimpleWebServer.AssemblyInfoInputs.cache
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\obj\Debug\netcoreapp2.1\03SimpleWebServer.AssemblyInfo.cs
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\obj\Debug\netcoreapp2.1\03SimpleWebServer.dll
+C:\Alex\Software University\Professional Module\C# Web Developer\C# Web\Web Server - Asynchronous Processing\Lab\03SimpleWebServer\obj\Debug\netcoreapp2.1\03SimpleWebServer.pdb
