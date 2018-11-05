@@ -1,0 +1,26 @@
+﻿<h1 class="text-center">All Orders</h1>
+<hr class="hr-2 bg-dark" />
+
+<div class="mx-auto w-50">
+    <table class="table-hover table table-striped">
+        <tr>
+            <th>#</th>
+            <th>Order ID</th>
+            <th>Customer</th>
+            <th>Product</th>
+            <th>Ordered On</th>
+        </tr>
+        @for (int i = 0; i < Model.OrderViewModels.Count(); i++)
+        {
+            { var index = i + 1; }
+            { var order = Model.OrderViewModels.ToList()[i]; }
+            <tr>
+                <td>@index</td>
+                <td>@order.Id</td>
+                <td>@order.Customer</td>
+                <td>@order.Product</td>
+                <td>@order.OrderedOn</td>
+            </tr>
+        }
+    </table>
+</div>
